@@ -27,8 +27,8 @@
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
     <siteAdmin>c0decampzulu@brave-wolf-9bisev.com</siteAdmin>
     <siteGuestRecordDefaultOwner
-    >test-yypfaowt42yo@example.com</siteGuestRecordDefaultOwner>
+    >c0decampzulu@brave-wolf-9bisev.com</siteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>
-    <subdomain>efficiency-connect-1801-dev--1701a0bb7eb</subdomain>
+    <subdomain>c0decampzulu@brave-wolf-9bisev</subdomain>
     <urlPathPrefix>ebikes</urlPathPrefix>
 </CustomSite>
